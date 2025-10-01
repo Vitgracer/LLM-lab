@@ -7,3 +7,8 @@
 
 # LLM-lab
 LLM research lab: exploring fine-tuning, base models, architectures and more
+
+Installation
+python -m venv llm-venv
+source llm-venv/Scripts/activate
+pip install transformers 
